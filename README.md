@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih M. Ünal</h1>
-<h3 align="center">A medium / senior VFX artist and developer.</h3>
+<h3 align="center">A senior VFX artist and developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faithcure&label=Profile%20views&color=0e75b6&style=flat" alt="faithcure" /> </p>
 
